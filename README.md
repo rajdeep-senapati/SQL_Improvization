@@ -76,3 +76,9 @@ This project showcases how to:
 - Practice data storytelling using queries alone
 
 ---
+## 📬 Credits
+
+- Dataset: [Kaggle Layoffs Dataset by Swapnil](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
+- Analysis and SQL scripts by [Rajdeep Senapati]
+
+---
